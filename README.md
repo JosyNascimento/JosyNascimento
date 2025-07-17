@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="1536" height="800" alt="Josy" src="https://github.com/user-attachments/assets/394b2fc8-09db-4a75-a387-6a6cfbd234e5" />
+  <img width="1536" height="600" alt="Josy" src="https://github.com/user-attachments/assets/394b2fc8-09db-4a75-a387-6a6cfbd234e5" />
 
   <h1>Hello, world! 🌍</h1>
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/Rotating_earth_animated_transparent.gif"
