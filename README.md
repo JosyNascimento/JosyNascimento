@@ -1,9 +1,9 @@
-<div style="text-align: center;">
-  <h1>Hello, world!</h1>
+<div style="display: flex; flex-direction: column; align-items: center; margin-top: 40px;">
+  <h1 style="font-family: Arial, sans-serif; color: #2c3e50;">Hello, world!</h1>
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/Rotating_earth_animated_transparent.gif"
-       alt="Globe rotating"
+       alt="Globo girando"
        width="200"
-       style="margin-top: 10px;">
+       style="margin-top: 20px;">
 </div>
 
 
