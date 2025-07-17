@@ -1,15 +1,15 @@
-<h1 align="center">Olá! Eu sou a Josy 👩‍💻</h1>
-<p align="center"><strong>Fullstack Developer</strong> • Apaixonada por desenvolvimento web e aprendizado contínuo</p>
+<h1 align="center">Hello, world! 👩‍💻</h1>
+<p align="center"><strong>Fullstack Developer</strong> • Passionate about web development and continuous learning</p>
 
 ---
 
-### 🚀 Sobre mim
+### 🚀 About Me
 
-Sou uma desenvolvedora fullstack com experiência prática em projetos reais utilizando tecnologias modernas no frontend e backend. Atualmente estudo pelo curso **CS50W - HarvardX** e busco oportunidades para aplicar meus conhecimentos e crescer na área de desenvolvimento de software.
+I'm a fullstack developer with hands-on experience building real-world projects using modern frontend and backend technologies. Currently studying the **CS50W - HarvardX** course and looking for opportunities to apply my skills and grow in the software development field.
 
 ---
 
-### 🛠️ Tecnologias que uso
+### 🛠️ Technologies I work with
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -22,13 +22,13 @@ Sou uma desenvolvedora fullstack com experiência prática em projetos reais uti
 
 ---
 
-### 📌 Projetos em destaque
+### 📌 Featured Projects
 
 - 💻 [**Sistema-de-E-commerce-Full-Stack**](https://github.com/JosyNascimento/Sistema-de-E-commerce-Full-Stack)  
-  API completa com autenticação, autorização, gerenciamento de produtos, carrinhos e usuários usando Node.js, Express e MongoDB.
+  A complete e-commerce system with authentication, authorization, product management, carts and users using Node.js, Express and MongoDB.
 
 - 🌐 [**keraprof.react**](https://github.com/JosyNascimento/keraprof.react)  
-  Projeto React para gestão de conteúdo e interface de aplicação. Responsivo, moderno e com foco em experiência do usuário.
+  A React-based web application focused on modern UI/UX and content management.
 
 ---
 
@@ -41,13 +41,13 @@ Sou uma desenvolvedora fullstack com experiência prática em projetos reais uti
 
 ---
 
-### 📫 Contato
+### 📫 Contact
 
 - 📧 joseildatn@gmail.com  
 - 💼 [LinkedIn](https://www.linkedin.com/in/joseilda-tereza-do-nascimento-636b7b28a/)  
-- 🌐 Portfólio: **(em breve)**  
-  *obs: em construção — planejado como site pessoal para mostrar meus projetos e jornada profissional*
+- 🌐 Portfolio: **(coming soon)**  
+  _Note: Currently in progress — personal website planned to showcase projects and my journey._
 
 ---
 
-✨ _"Desenvolver é transformar ideias em soluções. Estou sempre pronta para aprender e criar."_  
+✨ _"To code is to transform ideas into solutions. I'm always ready to learn and build."_  
