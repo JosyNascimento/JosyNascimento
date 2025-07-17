@@ -1,6 +1,6 @@
 <div style="text-align: center;">
   <h1>Hello, world!</h1>
-  <img src="https://media.giphy.com/media/dTJd5ygpxkzWo/giphy.gif" 
+   <img src="https://upload.wikimedia.org/wikipedia/commons/2/2c/Rotating_earth_%28large%29.gif" 
        alt="Globo girando" 
        width="150" 
        style="margin-top: 10px;">
