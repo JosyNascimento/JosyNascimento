@@ -1,4 +1,10 @@
-<h1 align="center">Hello, world! 👩‍💻</h1>
+<div style="text-align: center;">
+  <h1>Hello, world!</h1>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/97/Rotating_earth_%28large%29.gif" 
+       alt="Globo girando" 
+       width="150" 
+       style="margin-top: 10px;">
+</div>
 <p align="center"><strong>Fullstack Developer</strong> • Passionate about web development and continuous learning</p>
 
 ---
